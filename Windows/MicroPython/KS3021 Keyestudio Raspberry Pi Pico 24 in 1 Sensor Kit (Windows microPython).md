@@ -48,9 +48,9 @@ electronics.
 |     | ![USB线](media/84ea35f7f28b83be09c03dd90f51fa09.png)                      | USB Cable                                | 1   |
 |     | ![](media/33be6266ae36f54c9e7ffd044eae9320.png)                           | F-F Dupont Wire                          | 1   |
 
-## **Raspberry Pi Pico and Thonny**
+## 3.Raspberry Pi Pico and Thonny
 
-    1.  **Raspberry Pi Pico**
+### 1.**Raspberry Pi Pico**
 
 ![1](media/8f4fd948c7ba2a57de1f13bfafcbc57a.jpeg)
 
@@ -149,7 +149,7 @@ You can also provide an external precision voltage-reference on the ADC_VREF
 pin. One of the grounds, the ADC_GND on pin 33 is used as a ground point for
 that reference.
 
-| **Raspberry Pi Pico Configuration**                                     |
+ **Raspberry Pi Pico Configuration**                                     |
 |-------------------------------------------------------------------------|
 | Dual-core Arm Cortex-M0 + @ 133MHz                                      |
 | 2 × SPI, 2 × I2C, 2 × UART                                              |
@@ -162,7 +162,7 @@ that reference.
 | 30 GPIO pins, of which 4 can optionally be used as analog inputs        |
 | Drag-and-drop programming using mass storage over USB                   |
 
-**Pinout Diagram:**
+### 2.**Pinout Diagram:**
 
 **![pico-r3-pinout-01](media/5f7b34935150b0821800fe23c56110bd.png)**
 
@@ -172,7 +172,7 @@ softcover, and as a PDF download as well. For more information, please refer to:
 
 https://www.raspberrypi.com/products/raspberry-pi-pico/
 
-1.  **MicroPython IDE-----Thonny**
+### 3.**MicroPython IDE-----Thonny**
 
 **Programming the Pico:** You could use C/C++ or MicroPython. MicroPython is an
 interpreted language that is made specifically for microcontrollers. Many
@@ -185,7 +185,7 @@ operating system(formerly Raspbian).
 **Boot and Install MicroPython:** The first thing that we need to do is to get
 MicroPython installed onto the Pico.
 
-**Download and Burn Firmware**
+     3.1**Download and Burn Firmware**
 
 Go to the official website to download the UF2 file:
 
@@ -207,7 +207,7 @@ restart. At this point, the burning is complete.
 
 ![IMG_256](media/2b92b23b34ad785e441050dda48f4cd1.png)
 
-**Download and Install Thonny IDE**
+    3.2**Download and Install Thonny IDE**
 
 Enter the official website to download Thonny, we should download the latest
 version for Windows.
@@ -258,7 +258,7 @@ follows.
 
 ![IMG_256](media/133a5921368695d3a3a37cb82bedb557.jpeg)
 
-**3.3 Install Drivers**
+     **3.3 Install Drivers**
 
 Wire the Pi Pico board with the USB port of a computer via a MicroUSB. If the Pi
 Pico shield has installed MicroPython, and installed“Board CDC ” on the
@@ -292,7 +292,7 @@ Press“Enter”, if the on-board LED lights up, it means that Thonny works.
 
 ![IMG_256](media/6638a3afe34fa1efd6e63078d3e5c001.png)
 
-**3.4 Thonny User Interface**
+    **3.4 Thonny User Interface**
 
 After installing the IDE and the driver, now we will introduce Thonny user
 interface. At the top is the main menu, there are“File”,“Edit”,“View”,
@@ -359,7 +359,7 @@ When we unplug the cable again, then plug it in and power on, the LED will
 blink. This is because the Raspberry Pi Pico starts running the program saved on
 main.py after powering up.
 
-**3.5 Add Modules**
+     **3.5 Add Modules**
 
 Python is a powerful language due to its modules. Python scripting language with
 the most rich and powerful class library, enough to support the vast majority of
@@ -378,7 +378,7 @@ When using sensors, we can import the corresponding modules directly.
 
 ![](media/2d5a05351f23a99bddb011d6186c685a.png)
 
-3.6 Keyestudio Raspberry Pico IO Shield
+    3.6 Keyestudio Raspberry Pico IO Shield
 
 (1) Overview
 
@@ -422,7 +422,7 @@ shield.
 
 **![pico堆叠扩展板](media/027bcb15b34415d54164c03a796a10ab.jpeg)**
 
-1.  **Projects**
+## **Projects**
 
 There are 24 sensors and modules in this kit. Next, we will analyze and
 introduce how they work step by step. Interface sensors with the Raspberry Pi
@@ -430,7 +430,7 @@ Pico board and Pico shield, run test codes then observe experimental phenomenon.
 
 **Note: please wire up components according to the given connection diagrams.**
 
-**Project 1: Lighting up LED**
+### Project 1: Lighting up LED**
 
 ![LED](media/ce8d61c97eb89c94c05cc1f6299316b5.jpeg)
 
@@ -556,7 +556,7 @@ Code 2：upload the code and power on, the white LED flashes with an interval of
 
 ![课程1](media/3ce12413dd160fdcd7464fa5c64ef5f0.jpeg)
 
-## Project 2: Traffic Light Module
+### Project 2: Traffic Light Module
 
 ![交通灯](media/e191c790f251715b418bcfd39a32917f.jpeg)
 
@@ -653,7 +653,7 @@ flash for 3s then go off and the red one will be on 5s then off.
 
 ![课程2](media/4d677447ff2a0620da5f5d30f54fa355.jpeg)
 
-## Project 3: Button Sensor
+### Project 3: Button Sensor
 
 **![27-按键](media/4d5f6ea741d1e346e03f6efe7cfc9d2d.jpeg)**
 
@@ -745,7 +745,7 @@ appear, as shown below;
 
 ![](media/ba199239c85c395f36e42612246288eb.png)
 
-## Project 4: Obstacle Avoidance Sensor
+### Project 4: Obstacle Avoidance Sensor
 
 **![6-避障](media/e6dda88bb6faf8fc06d81361b7f48a3d.jpeg)**
 
@@ -835,7 +835,7 @@ will be shown.
 
 ![](media/86fc39da5df74b72325d5daddff5af70.png)
 
-## Project 5: Tilt Module
+### Project 5: Tilt Module
 
 **![9-倾斜](media/9d4fcf498d8943539935d0f9638f22eb.jpeg)**
 
@@ -918,7 +918,7 @@ turned on”will be shown.
 
 ![](media/a08940e31dfd94613a6c5c45d94879fc.png)
 
-## Project 6: Reed Switch Module
+### Project 6: Reed Switch Module
 
 **![12-干簧管](media/2a699e913fa52d9acff4b0e4a8188540.png)**
 
@@ -1021,7 +1021,7 @@ There is no magnetic field" will be shown, as shown below.
 
 ![](media/f44214d63a5974544ca996f93764b550.png)
 
-## Project 7: PIR Motion Sensor
+### Project 7: PIR Motion Sensor
 
 **![13-人体检测](media/d58ba7b9b4a0115b07cbb1c871ef8ec9.jpeg)**
 
@@ -1110,7 +1110,7 @@ contrast, the value is 0, the LED will go up and“0 No one!”will be shown.
 
 ![](media/35150d4268fa4716df8624845567f888.png)
 
-## Project 8: Active Buzzer
+### Project 8: Active Buzzer
 
 **![14-有源蜂鸣器](media/f4cc23dc8ed28d408e5a119855e19aa2.jpeg)**
 
@@ -1187,7 +1187,7 @@ Upload the code and power on. The buzzer chimes
 
 ![课程8](media/4d04a020bccc360be34122920e86e822.jpeg)
 
-## Project 9: 8002b Audio Power Amplifier
+### Project 9: 8002b Audio Power Amplifier
 
 **![16-喇叭](media/6e8569df97b72e866488a6f414f9e392.jpeg)**
 
@@ -1300,7 +1300,7 @@ DO，Re，Mi，Fa，So，La，Si.
 
 ![课程9](media/3e4f5e7c1b555f11e01b9db4f5e6be30.jpeg)
 
-## Project 10: RGB Module
+### Project 10: RGB Module
 
 **![18-RGB](media/b3515a7e0340f391bef256c9ed6ccd4b.jpeg)**
 
@@ -1509,7 +1509,7 @@ cyan-blue, blue, purple and white color with an interval of 1s.
 
 ![课程10](media/99636ab436d8b62a912d77a0c2893108.jpeg)
 
-## Project 11: Potentiometer
+### Project 11: Potentiometer
 
 **![19-旋转](media/fe92a4f36758bc236d94290478fe5eac.jpeg)**
 
@@ -1594,7 +1594,7 @@ value decreases, the range is 65535, as shown in the figure below.
 
 ![](media/d2a85bd73b96ae7cdac5cc5e74a7f631.png)
 
-## Project 12: Sound Sensor
+### Project 12: Sound Sensor
 
 **![20-声量检测](media/c4d4961f71c7e91bae04507f72cb56eb.jpeg)**
 
@@ -1666,7 +1666,7 @@ you can see the analog value get larger, as shown below
 
 ![](media/61d49a039909051d7b2a4d3f7343ab27.png)
 
-## Project 13: Photoresistor
+### Project 13: Photoresistor
 
 ![QQ图片20211210165338-2](media/37bb57bcf72ba62056bbc61164185f0a.png)
 
@@ -1741,7 +1741,7 @@ shown below;
 
 ![](media/f65bd8113e0510d1cb189029f3e965ae.png)
 
-## Project 14: NTC-MF52AT Thermistor
+### Project 14: NTC-MF52AT Thermistor
 
 **![22-NTC-MF52AT模拟温度](media/868d93395d983645baab872091991403.jpeg)**
 
@@ -1822,7 +1822,7 @@ shown in Shell page.
 
 ![](media/091ccbb047fd5d70e8d95203483e978b.png)
 
-## Project 15 Thin-film Pressure Sensor
+### Project 15 Thin-film Pressure Sensor
 
 **![23-薄膜压力传感器](media/a9ae2963fc87b3502703f7dd5eb208ec.jpeg)**
 
@@ -1893,7 +1893,7 @@ decrease, as shown below;
 
 ![](media/b6f69bc7b58a00ad8f40948ad7df97cb.png)
 
-## Project 16: Joystick Module
+### Project 16: Joystick Module
 
 **![28-摇杆模块](media/a28a09d0d9103cc8b93f2ae71f98482a.jpeg)**
 
@@ -1994,7 +1994,7 @@ as shown below;
 
 ![](media/4538e41c55fa9fe6d2fe534b14372101.png)
 
-## Project 17: SK6812 RGB Module
+### Project 17: SK6812 RGB Module
 
 ![sk6812](media/effda831f7c06cea2c443d8352f1a693.jpeg)
 
@@ -2187,7 +2187,7 @@ shown below;
 
 ![课程17](media/54dbbf925443f58cbdaab221f682a429.jpeg)
 
-## Project 18: Rotary Encoder
+### Project 18: Rotary Encoder
 
 **![编码器](media/ec37b336b8f5620b62b04224b132840a.jpeg)**
 
@@ -2320,7 +2320,7 @@ rise. Equally, press the button on the rotary encoder, the value is shown.
 
 ![](media/309db0bf32fc16f1604fecda081dc904.png)
 
-## Project 19: Servo Control
+### Project 19: Servo Control
 
 **![32-舵机](media/165f16e47a832fc4dcaea6e4a1c11194.jpeg)**
 
@@ -2531,7 +2531,7 @@ Upload the code, the servo will rotate from 0° to 180° and move 1° for each
 
 ![课程19](media/cfa5e9e40f26e2094abc652d78750119.jpeg)
 
-## Project 20: Ultrasonic Sensor
+### Project 20: Ultrasonic Sensor
 
 **Overview**
 
@@ -2670,7 +2670,7 @@ minimum detection distance is 2cm.
 
 ![](media/00f3c34b3c7d9eef1d700539086bd538.png)
 
-## Project 21: IR Receiver Module
+### Project 21: IR Receiver Module
 
 ![](media/80e8f8d8ddc35df9425032ec4ef783ee.png)
 
@@ -2840,7 +2840,7 @@ receiver will flash, as shown below;
 
 ![](media/709dfc7d8c131283d628c9ce6a5a809f.png)
 
-## Project 22: DS1307 Clock Module
+### Project 22: DS1307 Clock Module
 
 ![37-DS1307时钟](media/949abbbea3c8d8b36463768a39a07b51.png)
 
@@ -2993,7 +2993,7 @@ second and week on the shell, as shown below;
 
 ![](media/37fb929a02b59fc0fa8c203ed072b451.png)
 
-## Project 23: TM1650 4-Digit Tube Display
+### Project 23: TM1650 4-Digit Tube Display
 
 **![39-数码管](media/f698ea56391906278b7c8064fca42bb3.jpeg)**
 
@@ -3392,7 +3392,7 @@ from 0 to 99999 then from 9999 to 0
 
 ![课程23](media/4c2b3c3bb6c08f4213b4b82d1ea65b13.jpeg)
 
-## Project 24: HT16K33_8X8 Dot Matrix Module
+### Project 24: HT16K33_8X8 Dot Matrix Module
 
 **![40-点阵](media/431b6c4abd63b99219658a03d24de991.jpeg)**
 
@@ -3590,7 +3590,7 @@ The previous projects are related to single sensor or module. In the following
 part, we will combine various sensors and modules to create some comprehensive
 experiments to perform special functions.
 
-## Project 25: Breathing LED
+### Project 25: Breathing LED
 
 **![43-呼吸灯](media/25107e92a36e701f271b2371359f2679.jpeg)**
 
@@ -3675,7 +3675,7 @@ cyclically, like human breathe
 
 ![课程25](media/e5fa55f00d8c6e8fd06bcc7fff81f098.jpeg)
 
-## Project 26: Button-controlled LED
+### Project 26: Button-controlled LED
 
 **![44-按键控制LED灯](media/50740b22d16151d490b8494b0bff4f6e.jpeg)**
 
@@ -3750,7 +3750,7 @@ again, the LED will go off
 
 ![课程26](media/8596bbdbd00d12434b749384b1673c0c.jpeg)
 
-## Project 27: Alarm Experiment
+### Project 27: Alarm Experiment
 
 **![45-障碍物报警](media/6db3cb7d3a91e700a3b651c1f0edb7a5.jpeg)**
 
@@ -3811,7 +3811,7 @@ will chime; if not, it won’t beep
 
 ![课程27](media/7e76674a2d89cbf737ae02ff91d8cdb9.jpeg)
 
-**Project 28: PIR Motion Sensor**
+### Project 28: PIR Motion Sensor
 
 ![](media/b7828b9e5ee615a151567e20d35db90f.png)
 
@@ -3896,7 +3896,7 @@ flashes quickly.
 
 ![课程28](media/1cf0e463659a9c45c5130180071cedc5.jpeg)
 
-**Project 29: Speaker Module**
+### Project 29: Speaker Module
 
 **![48-播放音乐](media/7009513ee4deade529bb95ea74dfe58e.jpeg)**
 
@@ -4085,7 +4085,7 @@ code, the speaker module will play a song.
 
 ![课程29](media/6887e21a082a2edf42e3060395002f4c.jpeg)
 
-**Project 30: Rotary Encoder**
+### Project 30: Rotary Encoder
 
 **![全彩RGB](media/c6b4f1cedef06ed68d1c2e5ccf5c17d2.jpeg)**
 
@@ -4198,7 +4198,7 @@ display the reminders, then the LED will show different colors.
 
 ![](media/6894e2afd1eb7e150457048e0174adf8.png)
 
-**Project 31: Rotary Potentiometer**
+### Project 31: Rotary Potentiometer
 
 **![51-电位器调节灯光亮度](media/f71165ab140ae6b2aac093dc75785c96.jpeg)**
 
@@ -4267,7 +4267,7 @@ Run the code, turn the potentiometer to adjust the brightness of the LED.
 
 ![课程31](media/97f40c0c00d712aff07189d4c94354de.jpeg)
 
-**Project 32: Sound Activated Light**
+### Project 32: Sound Activated Light
 
 ![声控](media/f3ddb58e83a92a888d3e1d66f7456170.png)
 
@@ -4345,7 +4345,7 @@ value will increase. If the value exceeds 5000, the LED will light up.
 
 ![](media/bf672adab958f1d8ec6b467ccc5e7ad5.png)
 
-**Project 33: RGB Module**
+### Project 33: RGB Module
 
 ![57-6812花样彩灯](media/33c9dd3932993a801689ce26543d76bd.png)
 
@@ -4552,7 +4552,7 @@ colors.
 
 ![课程33](media/edf1b4bd96e8dc5857d193c2ed109557.jpeg)
 
-**Project 34: Ultrasonic Sensor**
+### Project 34: Ultrasonic Sensor
 
 **![58-超声波雷达](media/19a7c30e24f0ec39da94912c5535b791.png)**
 
@@ -5011,7 +5011,7 @@ RGB will show different colors, and the measured distances are displayed on the
 
 ![课程34](media/1f3599fe54a1f53bf6eae6eab27c600d.jpeg)
 
-**Project 35: IR Remote Control**
+### Project 35: IR Remote Control
 
 ![59-红外遥控灯（2）](media/6e823de7db355fde0bc5fcb7c1cdc705.jpeg)
 
@@ -5201,7 +5201,7 @@ again to turn off the LED.
 
 ![](media/ad0be693b3f956103a6fe8c58c3707d6.png)
 
-**Project 36: Comprehensive Experiment**
+### Project 36: Comprehensive Experiment
 
 **![62-综合](media/c92bfcbd1ecd7fe91198066d0c9a4df6.jpeg)**
 
@@ -5613,7 +5613,7 @@ the ultrasonic sensor to detect distances, they are displayed on the Shell.
 Press the button again, the value of“keys +”is 5 and the remainder is 0, the
 LEDs on the RGB module will blink again.
 
-**6. Resources:**
+## 6. Resources:
 
 **Download test code:**
 
