@@ -1,8 +1,8 @@
-**Keyestudio Raspberry Pi Pico 24 in 1 Sensor Kit**
+# **Keyestudio Raspberry Pi Pico 24 in 1 Sensor Kit**
 
 **![KS3021(不带电池)](media/459ab1caab120d6d26eb5bec7da6b289.jpeg)**
 
-1.  **Introduction**
+## **1.Introduction**
 
 The Keyestudio Raspberry Pi Pico 24 in 1 sensor kit mainly contains 24 commonly
 used sensors/modules, the Raspberry Pi Pico board, the Raspberry Pi Pico
@@ -17,7 +17,7 @@ schematic diagrams, wiring methods and test code are included. Through these
 projects, you will have a better understanding about programming, logic and
 electronics.
 
-**2. Kit List**
+## **2. Kit List**
 
 | No. | Picture                                                                   | Model                                    | QTY |
 |-----|---------------------------------------------------------------------------|------------------------------------------|-----|
@@ -51,7 +51,7 @@ electronics.
 |     | ![USB线](media/84ea35f7f28b83be09c03dd90f51fa09.png)                      | USB Cable                                | 1   |
 |     | ![](media/33be6266ae36f54c9e7ffd044eae9320.png)                           | F-F Dupont Wire                          | 1   |
 
-# Raspberry Pi Pico & Arduino IDE
+## **3.Raspberry Pi Pico & Arduino IDE**
 
 **3.1 Raspberry Pi Pico**
 
@@ -331,7 +331,7 @@ shield.
 
 **![pico堆叠扩展板](media/027bcb15b34415d54164c03a796a10ab.jpeg)**
 
-**5. Projects**
+## **5. Projects**
 
 There are 24 sensors and modules in this kit. Next, we will analyze and
 introduce how they work step by step. Interface sensors with the Raspberry Pi
