@@ -1,6 +1,6 @@
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: KS3021-Keyestudio-Raspberry-Pi-Pico-24-in-1-Sensor-Kit
 
    /Windows/Arduino C/KS3021 Keyestudio Raspberry Pi Pico 24 in 1 Sensor Kit-Arduino.md
