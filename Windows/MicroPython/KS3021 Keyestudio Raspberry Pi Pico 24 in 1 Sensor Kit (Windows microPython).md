@@ -1,4 +1,4 @@
-# **KS3021 Keyestudio Raspberry Pi Pico 24 in 1 Sensor Kit (Windows microPython)**
+# **Pico 24 in 1 Sensor Kit (Windows microPython tutorial)**
 
 ## 1.Introduction
 

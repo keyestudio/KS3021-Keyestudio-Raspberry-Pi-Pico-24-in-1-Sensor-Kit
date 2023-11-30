@@ -1,4 +1,4 @@
-# **KS3021 Keyestudio Raspberry Pi Pico 24 in 1 Sensor Kit(Raspberry Pi MicroPython)**
+# **Pico 24 in 1 Sensor Kit(Raspberry Pi MicroPython tutorial)**
 
 
 ![](media/51ac6bbf36fb3b7082622c70de3a5739.jpeg)

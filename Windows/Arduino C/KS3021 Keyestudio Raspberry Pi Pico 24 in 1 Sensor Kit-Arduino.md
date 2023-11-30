@@ -1,4 +1,4 @@
-# **KS3021 Keyestudio Raspberry Pi Pico 24 in 1 Sensor Kit-Arduino**
+# **Pico 24 in 1 Sensor Kit-Arduino tutorial**
 
 ![](media/459ab1caab120d6d26eb5bec7da6b289.jpeg)
 
