@@ -12,35 +12,35 @@ To make you master the electronic knowledge, detailed tutorials (MicroPython), s
 
 |                           Picture                            |                   Name                   | QTY  |
 | :----------------------------------------------------------: | :--------------------------------------: | :--: |
-| <img src="media/099048eec26865fd9cc81d8c646c88e7.png" style="zoom:50%;" /> |       Keyestudio White LED Module        |  1   |
-| <img src="media/b83cfda6f21c26037d7f5bd5c403a2c7.png" style="zoom:50%;" /> |   Keyestudio Common Cathode RGB Module   |  1   |
-| <img src="media/9dd3ad6327733c3b06b61c22c302e22e.png" style="zoom:67%;" /> |     Keyestudio Traffic Lights Module     |  1   |
-| <img src="media/10e7df934f3065f87ecb0163a49b6a31.png" style="zoom: 50%;" /> |         Keyestudio Active Buzzer         |  1   |
-| <img src="media/65cab276d08d6f29ba1a22359c0376f9.png" style="zoom:67%;" /> |  Keyestudio 8002b Audio Power Amplifier  |  1   |
-| <img src="media/6f7cbd758d774713bd4181000d7efe1b.png" style="zoom:50%;" /> |         Keyestudio Button Module         |  1   |
-| <img src="media/b9bd1f0923a6ab801d7b60d6da3d9a5b.png" style="zoom: 67%;" /> |          Keyestudio Tilt Sensor          |  1   |
-| <img src="media/6dcf2be9ac58a9c685ca2f64ffa32dfc.png" style="zoom: 67%;" /> |       Keyestudio PIR Motion Sensor       |  1   |
-|       ![](media/986b897189c79895ffe626348359f634.png)        |   Keyestudio Obstacle Avoidance Sensor   |  1   |
-| <img src="media/a6ad46f7f2fe36fb33c048ea8210aaa7.png" style="zoom: 67%;" /> |        Keyestudio 6812 RGB Module        |  1   |
-| <img src="media/a2093df4945d05379824e2c56bb67b7e.png" style="zoom: 67%;" /> | Keyestudio NTC-MF52AT Analog Thermistor  |  1   |
-|       ![](media/95346cf9c532dedd488d42b38a8b2649.png)        |         Keyestudio Photoresistor         |  1   |
-| <img src="media/f5d5feb5d7939f0b022a264608654e34.png" style="zoom:67%;" /> |         Keyestudio Sound Sensor          |  1   |
-|       ![](media/39db0983ad86991ac3c1fa7e16e6b6b4.png)        |     Keyestudio Rotary Potentiometer      |  1   |
-| <img src="media/907f79d7a0c3500820323343b0ef4681.png" style="zoom: 67%;" /> |          Keyestudio IR Receiver          |  1   |
-| <img src="media/8f7396128e7b0c2da1273aa050fa85df.png" style="zoom:67%;" /> |      Keyestudio Reed Switch Sensor       |  1   |
-|       ![](media/0ef1583b201c7944ba95ac97ee8a4ba8.png)        |     Keyestudio Rotary Encoder Module     |  1   |
-| <img src="media/a3ae6cf394df0cb2d30de18d1ea0b7ef.png" style="zoom:67%;" /> |        Keyestudio Joystick Module        |  1   |
-| <img src="media/1796f8c52fc7730c3ff3a7771b0ac02b.png" style="zoom:67%;" /> | Keyestudio HT16K33 8X8 Dot Matrix Module |  1   |
-| <img src="media/e38dd57f0c87cd67972abc49f6b2e32b.png" style="zoom:67%;" /> |  Keyestudio TM1650 4-Digit Tube Display  |  1   |
-|       ![](media/d1dd4137f10ccce92747bdd07e8738dd.png)        |   Keyestudio Thin-film Pressure Sensor   |  1   |
-| <img src="media/51f5d485d54becfb69fc820177c61b29.png" style="zoom:67%;" /> |      Keyestudio DS1307 Clock Sensor      |  1   |
-| <img src="media/43028b575a82be10e3ce23c40eb30061.png" style="zoom:67%;" /> |    Keyestudio SR01 Ultrasonic Sensor     |  1   |
-|       ![](media/46f3adcf9fc650b3a89bbde6d66f44ef.png)        |               9G 90° Servo               |  1   |
-|       ![](media/b57492c3f0fcb41347596e415122794e.png)        |         Raspberry Pi Pico Board          |  1   |
-|       ![](media/8e832bc2c220eb7f18afd18857769b67.png)        |   Keyestudio Raspberry Pico IO Shield    |  1   |
-|       ![](media/7c6064da3c2e9541a74672081197feab.png)        | Keyestudio JMFP-4 17-Key Remote Control  |  1   |
-|       ![](media/84ea35f7f28b83be09c03dd90f51fa09.png)        |                USB Cable                 |  1   |
-|       ![](media/33be6266ae36f54c9e7ffd044eae9320.png)        |             F-F Dupont Wire              |  1   |
+| ![](media/099048eec26865fd9cc81d8c646c88e7.png)        |       Keyestudio White LED Module        |  1   |
+| ![](media/b83cfda6f21c26037d7f5bd5c403a2c7.png)        |   Keyestudio Common Cathode RGB Module   |  1   |
+| ![](media/9dd3ad6327733c3b06b61c22c302e22e.png)        |     Keyestudio Traffic Lights Module     |  1   |
+| ![](media/10e7df934f3065f87ecb0163a49b6a31.png)        |         Keyestudio Active Buzzer         |  1   |
+| ![](media/65cab276d08d6f29ba1a22359c0376f9.png)        |  Keyestudio 8002b Audio Power Amplifier  |  1   |
+| ![](media/6f7cbd758d774713bd4181000d7efe1b.png)        |         Keyestudio Button Module         |  1   |
+| ![](media/b9bd1f0923a6ab801d7b60d6da3d9a5b.png)        |          Keyestudio Tilt Sensor          |  1   |
+| ![](media/6dcf2be9ac58a9c685ca2f64ffa32dfc.png)        |       Keyestudio PIR Motion Sensor       |  1   |
+| ![](media/986b897189c79895ffe626348359f634.png)        |   Keyestudio Obstacle Avoidance Sensor   |  1   |
+| ![](media/a6ad46f7f2fe36fb33c048ea8210aaa7.png)        |        Keyestudio 6812 RGB Module        |  1   |
+| ![](media/a2093df4945d05379824e2c56bb67b7e.png)        | Keyestudio NTC-MF52AT Analog Thermistor  |  1   |
+| ![](media/95346cf9c532dedd488d42b38a8b2649.png)        |         Keyestudio Photoresistor         |  1   |
+| ![](media/f5d5feb5d7939f0b022a264608654e34.png)        |         Keyestudio Sound Sensor          |  1   |
+| ![](media/39db0983ad86991ac3c1fa7e16e6b6b4.png)        |     Keyestudio Rotary Potentiometer      |  1   |
+| ![](media/907f79d7a0c3500820323343b0ef4681.png)        |          Keyestudio IR Receiver          |  1   |
+| ![](media/8f7396128e7b0c2da1273aa050fa85df.png)        |      Keyestudio Reed Switch Sensor       |  1   |
+| ![](media/0ef1583b201c7944ba95ac97ee8a4ba8.png)        |     Keyestudio Rotary Encoder Module     |  1   |
+| ![](media/a3ae6cf394df0cb2d30de18d1ea0b7ef.png)        |        Keyestudio Joystick Module        |  1   |
+| ![](media/1796f8c52fc7730c3ff3a7771b0ac02b.png)        | Keyestudio HT16K33 8X8 Dot Matrix Module |  1   |
+| ![](media/e38dd57f0c87cd67972abc49f6b2e32b.png)        |  Keyestudio TM1650 4-Digit Tube Display  |  1   |
+| ![](media/d1dd4137f10ccce92747bdd07e8738dd.png)        |   Keyestudio Thin-film Pressure Sensor   |  1   |
+| ![](media/51f5d485d54becfb69fc820177c61b29.png)        |      Keyestudio DS1307 Clock Sensor      |  1   |
+| ![](media/43028b575a82be10e3ce23c40eb30061.png)        |    Keyestudio SR01 Ultrasonic Sensor     |  1   |
+| ![](media/46f3adcf9fc650b3a89bbde6d66f44ef.png)        |               9G 90° Servo               |  1   |
+| ![](media/b57492c3f0fcb41347596e415122794e.png)        |         Raspberry Pi Pico Board          |  1   |
+| ![](media/8e832bc2c220eb7f18afd18857769b67.png)        |   Keyestudio Raspberry Pico IO Shield    |  1   |
+| ![](media/7c6064da3c2e9541a74672081197feab.png)        | Keyestudio JMFP-4 17-Key Remote Control  |  1   |
+| ![](media/84ea35f7f28b83be09c03dd90f51fa09.png)        |                USB Cable                 |  1   |
+| ![](media/33be6266ae36f54c9e7ffd044eae9320.png)        |             F-F Dupont Wire              |  1   |
 
 ## 3.Raspberry Pi Pico and Thonny
 
